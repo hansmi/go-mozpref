@@ -1,6 +1,6 @@
 # go-mozpref #
 
-[![GoDoc](https://godoc.org/github.com/hansmi/go-mozpref/github?status.svg)](https://godoc.org/github.com/hansmi/go-mozpref/github)
+[![GoDoc](https://godoc.org/github.com/hansmi/go-mozpref?status.svg)](https://godoc.org/github.com/hansmi/go-mozpref)
 
 go-mozpref is a Go library for reading and writing preference files as used by
 [Mozilla Firefox][] and [Thunderbird][]. The parser consists of
