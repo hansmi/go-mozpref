@@ -1,0 +1,9 @@
+{
+	"key1": {
+		"value": "value",
+		"flags": 1
+	},
+	"key2": {
+		"value": false
+	}
+}

@@ -1,0 +1,9 @@
+pref("val-false", false);pref ( "val-true",true );
+ sticky_pref( /* comment */ "val-sticky", // end-of-line comment
+# another comment
+/* # value follows */ -300);
+user_pref("val-locked", 1, locked);
+/* */
+sticky_pref("val-sticky-locked", "Hello", locked, sticky);
+pref("val-sticky-locked-2", "Hello", locked, sticky);
+/* vim: set ft=javascript : */

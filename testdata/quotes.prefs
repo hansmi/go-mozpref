@@ -1,0 +1,7 @@
+pref('newlines', "foo\nbar\n");
+pref('ke\'y2', "a");
+pref('tab', 'with\ttab');
+pref('space', '\x20');
+pref('arrow', '\u2194');
+pref('dquote', "'\"'");
+pref('squote', '"\'"');

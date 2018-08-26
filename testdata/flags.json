@@ -1,0 +1,50 @@
+{
+	"p": {
+		"value": false,
+		"flags": 0
+	},
+	"p-s": {
+		"value": false,
+		"flags": 1
+	},
+	"p-l": {
+		"value": false,
+		"flags": 2
+	},
+	"p-s-l": {
+		"value": false,
+		"flags": 3
+	},
+	"s": {
+		"value": false,
+		"flags": 1
+	},
+	"s-s": {
+		"value": false,
+		"flags": 1
+	},
+	"s-l": {
+		"value": false,
+		"flags": 3
+	},
+	"s-s-l": {
+		"value": false,
+		"flags": 3
+	},
+	"u": {
+		"value": false,
+		"flags": 4
+	},
+	"u-s": {
+		"value": false,
+		"flags": 5
+	},
+	"u-l": {
+		"value": false,
+		"flags": 6
+	},
+	"u-s-l": {
+		"value": false,
+		"flags": 7
+	}
+}

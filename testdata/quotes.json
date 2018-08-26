@@ -1,0 +1,23 @@
+{
+	"newlines": {
+		"value": "foo\nbar\n"
+	},
+	"ke'y2": {
+		"value": "a"
+	},
+	"tab": {
+		"value": "with\u0009tab"
+	},
+	"space": {
+		"value": " "
+	},
+	"arrow": {
+		"value": "\u2194"
+	},
+	"dquote": {
+		"value": "'\"'"
+	},
+	"squote": {
+		"value": "\"'\""
+	}
+}

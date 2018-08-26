@@ -1,0 +1,4 @@
+pref("key1", "a", locked);
+pref("key1", "a");
+pref("key2", false);
+sticky_pref("key1", "value");

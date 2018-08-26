@@ -1,0 +1,26 @@
+{
+	"val-false": {
+		"value": false,
+		"flags": 0
+	},
+	"val-true": {
+		"value": true,
+		"flags": 0
+	},
+	"val-sticky": {
+		"value": -300,
+		"flags": 1
+	},
+	"val-locked": {
+		"value": 1,
+		"flags": 6
+	},
+	"val-sticky-locked": {
+		"value": "Hello",
+		"flags": 3
+	},
+	"val-sticky-locked-2": {
+		"value": "Hello",
+		"flags": 3
+	}
+}

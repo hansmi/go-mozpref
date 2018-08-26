@@ -1,0 +1,14 @@
+pref("p", false);
+pref("p-s", false, sticky);
+pref("p-l", false, locked);
+pref("p-s-l", false, sticky, locked);
+
+sticky_pref("s", false);
+sticky_pref("s-s", false, sticky);
+sticky_pref("s-l", false, locked);
+sticky_pref("s-s-l", false, sticky, locked);
+
+user_pref("u", false);
+user_pref("u-s", false, sticky);
+user_pref("u-l", false, locked);
+user_pref("u-s-l", false, sticky, locked);

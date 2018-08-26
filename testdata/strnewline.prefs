@@ -1,0 +1,4 @@
+// test
+sticky_pref("", "
+newline
+");
